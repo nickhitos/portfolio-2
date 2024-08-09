@@ -81,7 +81,7 @@ const Navbar = () => {
                 <li
                   key={nav.id}
                   className={`font-poppins font-medium cursor-pointer text-[16px] ${
-                    active === nav.title ? "text-white" : "text-secondary"
+                    active === nav.title ? "text-[#ff6f61]" : "text-secondary"
                   }`}
                   onClick={() => {
                     setToggle(!toggle);
