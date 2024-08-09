@@ -1,6 +1,10 @@
 import logo from "./logo.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
+import frontend from "./frontend.svg";
+import phone from "./phone.svg";
+import database from "./database.svg";
+import laptop from "./laptop.svg";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
@@ -23,12 +27,18 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
+import pickrell from "./company/pickrell.png";
 import tesla from "./company/tesla.png";
+import boeing from "./company/boeing.jpeg";
+import bei from "./company/bei.jpeg";
+import codeday from "./company/codeday.jpeg";
 
 import carrent from "./carrent.png";
+import report from "./report.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import vista from "./vista.png";
+import summarigo from "./summarigo.png";
 
 export {
   logo,
@@ -54,9 +64,19 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
+  pickrell,
   tesla,
   carrent,
   jobit,
   tripguide,
+  boeing,
+  bei,
+  codeday,
+  report,
+  summarigo,
+  vista,
+  frontend,
+  phone,
+  laptop,
+  database
 };
