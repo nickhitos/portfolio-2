@@ -32,6 +32,7 @@ import {
   database,
   laptop,
   phone,
+	kevin,
 } from "../assets";
 
 export const navLinks = [
@@ -178,15 +179,15 @@ const testimonials = [
 	{
 		testimonial:
 			"I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-		name: "Sara Lee",
-		designation: "CFO",
-		company: "Acme Co",
-		image: "https://randomuser.me/api/portraits/women/4.jpg",
+		name: "Kevin Kieu",
+		designation: "ME",
+		company: "University of Washington",
+		image: kevin,
 	},
 	{
 		testimonial:
 			"I've never met a web developer who truly cares about their clients' success like Rick does.",
-		name: "Chris Brown",
+		name: "William Wu",
 		designation: "COO",
 		company: "DEF Corp",
 		image: "https://randomuser.me/api/portraits/men/5.jpg",
@@ -194,7 +195,7 @@ const testimonials = [
 	{
 		testimonial:
 			"After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-		name: "Lisa Wang",
+		name: "Mark Jason Joven",
 		designation: "CTO",
 		company: "456 Enterprises",
 		image: "https://randomuser.me/api/portraits/women/6.jpg",
@@ -251,7 +252,7 @@ const projects = [
 			},
 		],
 		image: vista,
-		source_code_link: "https://github.com/nickhitos/vista",
+		source_code_link: "https://mern-dash.netlify.app/dashboard",
 	},
 	{
 		name: "SummariGo",
@@ -276,7 +277,7 @@ const projects = [
 			},
 		],
 		image: summarigo,
-		source_code_link: "https://github.com/nickhitos/summarigo",
+		source_code_link: "https://summarigo.netlify.app",
 	},
 ];
 
