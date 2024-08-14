@@ -189,7 +189,7 @@ const testimonials = [
 	},
 	{
 		testimonial:
-			"I've never met a web developer who truly cares about their clients' success like Nicolas does.",
+			"I've never met a web developer who truly cares about their client's success like Nicolas does.",
 		name: "William Wu",
 		title: "Biochemistry @ UW",
 		image: william,
