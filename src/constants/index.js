@@ -28,11 +28,12 @@ import {
 	report,
 	vista,
 	summarigo,
-  frontend,
-  database,
-  laptop,
-  phone,
+	frontend,
+	database,
+	laptop,
+	phone,
 	kevin,
+	campuspaths,
 } from "../assets";
 
 export const navLinks = [
@@ -278,6 +279,31 @@ const projects = [
 		],
 		image: summarigo,
 		source_code_link: "https://summarigo.netlify.app",
+	},
+	{
+		name: "Campus Paths",
+		description:
+			"Campus Paths calculates and displays the shortest route between two buildings on the University of Washington campus using Dijkstra’s algorithm. Users input their start and end destination, and the app displays the shortest path.",
+		tags: [
+			{
+				name: "Java",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "TypeScript",
+				color: "green-text-gradient",
+			},
+			{
+				name: "React",
+				color: "pink-text-gradient",
+			},
+			{
+				name: "Spark",
+				color: "blue-text-gradient",
+			},
+		],
+		image: campuspaths,
+		source_code_link: "https://about.gitlab.com",
 	},
 ];
 

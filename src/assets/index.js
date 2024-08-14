@@ -39,11 +39,13 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import vista from "./vista.png";
 import summarigo from "./summarigo.png";
+import campuspaths from "./uw-map.jpeg";
 
 import kevin from "./portraits/kevin.jpeg";
 import eye from "./eye.png"
 
 export {
+  campuspaths,
   eye,
 	kevin,
 	logo,
