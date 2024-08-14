@@ -43,9 +43,13 @@ import campuspaths from "./uw-map.jpeg";
 import _333gle from "./333gle.png"
 
 import kevin from "./portraits/kevin.jpeg";
+import mark from "./portraits/mark.jpeg";
+import william from "./portraits/william.jpeg";
 import eye from "./eye.png"
 
 export {
+  william,
+  mark,
   _333gle,
   campuspaths,
   eye,

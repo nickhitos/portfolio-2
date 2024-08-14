@@ -35,6 +35,8 @@ import {
 	kevin,
 	campuspaths,
 	_333gle,
+	mark,
+	william,
 } from "../assets";
 
 export const navLinks = [
@@ -180,27 +182,24 @@ const experiences = [
 const testimonials = [
 	{
 		testimonial:
-			"I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+			"I’ve collaborated with others, but Nicolas’s unique approach stands out. His dedication and passion for his work is truly inspiring.",
 		name: "Kevin Kieu",
-		designation: "ME",
-		company: "University of Washington",
+		title: "Mechanical Engineering @ UW",
 		image: kevin,
 	},
 	{
 		testimonial:
-			"I've never met a web developer who truly cares about their clients' success like Rick does.",
+			"I've never met a web developer who truly cares about their clients' success like Nicolas does.",
 		name: "William Wu",
-		designation: "COO",
-		company: "DEF Corp",
-		image: "https://randomuser.me/api/portraits/men/5.jpg",
+		title: "Biochemistry @ UW",
+		image: william,
 	},
 	{
 		testimonial:
-			"After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+			"Collaborating with him has been a pleasure. I highly recommend his work to anyone looking for top-tier technical expertise.",
 		name: "Mark Jason Joven",
-		designation: "CTO",
-		company: "456 Enterprises",
-		image: "https://randomuser.me/api/portraits/women/6.jpg",
+		title: "Biochemistry @ UW",
+		image: mark,
 	},
 ];
 
