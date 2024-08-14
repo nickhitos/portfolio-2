@@ -284,7 +284,7 @@ const projects = [
 	{
 		name: "333gle",
 		description:
-			"A file search system that parses HTTP requests and forms responses that display an HTML webpage of with query results. The multithreaded web server listens on a port and accepts client requests to query its files.",
+			"A file search system that parses HTTP requests and forms responses with an HTML webpage of query results. The multithreaded web server listens on a port and accepts client requests to query its inverted index, where documents are mapped to words.",
 		tags: [
 			{
 				name: "C++",
