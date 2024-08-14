@@ -284,7 +284,7 @@ const projects = [
 	{
 		name: "333gle",
 		description:
-			"Campus Paths calculates and displays the shortest route between two buildings on the University of Washington campus using Dijkstra’s algorithm. Users input their start and end destination, and the app displays the shortest path.",
+			"A file search system that parses HTTP requests and forms responses that display an HTML webpage of with query results. The multithreaded web server listens on a port and accepts client requests to query its files.",
 		tags: [
 			{
 				name: "C++",
