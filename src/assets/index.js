@@ -7,7 +7,7 @@ import database from "./database.svg";
 import laptop from "./laptop.svg";
 import mobile from "./mobile.png";
 import web from "./web.png";
-import github from "./github.png";
+import github from "./github.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 

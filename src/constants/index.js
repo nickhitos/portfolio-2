@@ -230,6 +230,8 @@ const projects = [
 		image: report,
 		source_code_link:
 			"https://github.com/nickhitos/reproduction-EMNLP2023-llm-compression-social-bias",
+		project_link:
+			"https://github.com/nickhitos/reproduction-EMNLP2023-llm-compression-social-bias",
 	},
 	{
 		name: "Vista",
@@ -255,7 +257,8 @@ const projects = [
 		],
 		showLink: true,
 		image: vista,
-		source_code_link: "https://mern-dash.netlify.app/dashboard",
+		source_code_link: "https://github.com/nickhitos/vista",
+		project_link: "https://mern-dash.netlify.app/dashboard",
 	},
 	{
 		name: "SummariGo",
@@ -281,7 +284,8 @@ const projects = [
 		],
 		showLink: true,
 		image: summarigo,
-		source_code_link: "https://summarigo.netlify.app",
+		source_code_link: "https://github.com/nickhitos/summarigo",
+		project_link: "https://summarigo.netlify.app",
 	},
 	{
 		name: "333gle",
@@ -308,6 +312,7 @@ const projects = [
 		showLink: false,
 		image: _333gle,
 		source_code_link: "https://about.gitlab.com",
+		project_link: "https://about.gitlab.com",
 	},
 	{
 		name: "Campus Paths",
@@ -334,6 +339,7 @@ const projects = [
 		showLink: false,
 		image: campuspaths,
 		source_code_link: "https://about.gitlab.com",
+		project_link: "https://about.gitlab.com",
 	},
 ];
 
