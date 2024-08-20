@@ -98,7 +98,7 @@ const Contact = () => {
               name='email'
               value={form.email}
               onChange={handleChange}
-              placeholder="What's your web address?"
+              placeholder="What's your email?"
               className='bg-primary py-4 px-6 placeholder:text-secondary text-secondary rounded-lg outline-none border-none font-medium'
             />
           </label>
