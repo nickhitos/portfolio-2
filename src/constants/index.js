@@ -230,7 +230,7 @@ const projects = [
 		image: report,
 		source_code_link:
 			"https://github.com/nickhitos/reproduction-EMNLP2023-llm-compression-social-bias",
-		project_link: "/portfolio-2/docs/reproduction-report.pdf",
+		project_link: "portfolio-2/docs/reproduction-report.pdf",
 	},
 	{
 		name: "Vista",
