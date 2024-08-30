@@ -41,6 +41,7 @@ import vista from "./vista.png";
 import summarigo from "./summarigo.png";
 import campuspaths from "./uw-map.jpeg";
 import _333gle from "./333gle.png"
+import xk from "./xk.png"
 
 import kevin from "./portraits/kevin.jpeg";
 import mark from "./portraits/mark.jpeg";
@@ -50,6 +51,7 @@ import eye from "./eye.png"
 export {
   william,
   mark,
+  xk,
   _333gle,
   campuspaths,
   eye,

@@ -37,6 +37,7 @@ import {
 	_333gle,
 	mark,
 	william,
+	xk,
 } from "../assets";
 
 export const navLinks = [
@@ -207,7 +208,7 @@ const projects = [
 	{
 		name: "Reproduction Report",
 		description:
-			'Reproduced "Understanding the Effect of Model Compression on Social Bias in Large Language Models", by Gustavo Goncalves and Emma Strubell, by running experiments and adapting codebase to run on Google Cloud and University of Washington GPUs',
+			'Reproduced "Understanding the Effect of Model Compression on Social Bias in Large Language Models", by Gustavo Goncalves and Emma Strubell, by running experiments and adapting codebase to run on Google Cloud and University of Washington GPUs.',
 		tags: [
 			{
 				name: "Python",
@@ -285,6 +286,25 @@ const projects = [
 		image: summarigo,
 		source_code_link: "https://github.com/nickhitos/summarigo",
 		project_link: "https://summarigo.netlify.app",
+	},
+	{
+		name: "xk Operating System",
+		description:
+			"A working operating system with system calls, process management functions, and memory management routines of a Unix-like OS. Additionally features a file system with I/O operations and directory management.",
+		tags: [
+			{
+				name: "C",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "GDB",
+				color: "green-text-gradient",
+			},
+		],
+		showLink: false,
+		image: xk,
+		source_code_link: "https://about.gitlab.com",
+		project_link: "https://about.gitlab.com",
 	},
 	{
 		name: "333gle",
