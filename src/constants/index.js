@@ -38,6 +38,7 @@ import {
 	mark,
 	william,
 	xk,
+	pathloom
 } from "../assets";
 
 export const navLinks = [
@@ -130,6 +131,18 @@ const technologies = [
 ];
 
 const experiences = [
+	{
+		title: "Website Development & DevOps Analyst Intern",
+		company_name: "Pathloom",
+		icon: pathloom,
+		iconBg: "#e9e9e9",
+		date: "Sep 2024 - Dec 2024",
+		points: [
+			"Collaborated with company CEO, marketing team, and design team to analyze business needs and select optimal tools and technologies for redesigning the company website.",
+			"Engineered an SEO-optimized WordPress website by leveraging modular design principles and adhering to Figma design specifications for UI consistency.",
+			"Developed and deployed a custom automation script to scrape existing blog posts and store them in an XML file using JavaScript and Selenium, enabling the migration of over 300 blog posts from Wix to WordPress.",
+		],
+	},
 	{
 		title: "Junior React Developer",
 		company_name: "Pickrell Global Technologies",

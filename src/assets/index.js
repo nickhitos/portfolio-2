@@ -32,6 +32,7 @@ import tesla from "./company/tesla.png";
 import boeing from "./company/boeing.jpeg";
 import bei from "./company/bei.jpeg";
 import codeday from "./company/codeday.jpeg";
+import pathloom from "./company/pathloom.png";
 
 import carrent from "./carrent.png";
 import report from "./report.png";
@@ -94,4 +95,5 @@ export {
 	phone,
 	laptop,
 	database,
+	pathloom
 };
