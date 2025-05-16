@@ -48,8 +48,7 @@ const Navbar = () => {
 						className="w-9 h-9 object-contain"
 					/>
 					<p className="text-[#333333] text-[18px] font-bold cursor-pointer flex ">
-						Nicolas &nbsp;
-						<span className="sm:block hidden"> | Portfolio</span>
+						Nicolas Hitosis
 					</p>
 				</Link>
 
@@ -59,9 +58,9 @@ const Navbar = () => {
 							key={nav.id}
 							className={`${
 								active === nav.title
-									? "text-[#ff6f61]"
+									? "text-[var(--primary-color)]"
 									: "text-secondary"
-							} hover:text-[#ff6f61] text-[18px] font-medium cursor-pointer 
+							} hover:text-[var(--primary-color)] text-[18px] font-medium cursor-pointer 
               transition ease-in
               `}
 							onClick={() => setActive(nav.title)}

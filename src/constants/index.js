@@ -1,8 +1,4 @@
 import {
-	mobile,
-	backend,
-	creator,
-	web,
 	javascript,
 	typescript,
 	html,
@@ -15,13 +11,8 @@ import {
 	git,
 	figma,
 	docker,
-	meta,
 	pickrell,
-	tesla,
 	boeing,
-	carrent,
-	jobit,
-	tripguide,
 	threejs,
 	codeday,
 	bei,
@@ -58,19 +49,19 @@ export const navLinks = [
 
 const services = [
 	{
-		title: "Frontend Developer",
+		title: "Frontend",
 		icon: frontend,
 	},
 	{
-		title: "Backend Developer",
+		title: "Backend",
 		icon: database,
 	},
 	{
-		title: "Web Developer",
+		title: "Web",
 		icon: laptop,
 	},
 	{
-		title: "React Native Developer",
+		title: "Mobile",
 		icon: phone,
 	},
 ];
@@ -229,11 +220,11 @@ const projects = [
 			},
 			{
 				name: "PyTorch",
-				color: "green-text-gradient",
+				color: "blue-text-gradient",
 			},
 			{
 				name: "Pandas",
-				color: "pink-text-gradient",
+				color: "blue-text-gradient",
 			},
 			{
 				name: "Bash",
@@ -257,11 +248,11 @@ const projects = [
 			},
 			{
 				name: "React",
-				color: "green-text-gradient",
+				color: "blue-text-gradient",
 			},
 			{
 				name: "NodeJS",
-				color: "pink-text-gradient",
+				color: "blue-text-gradient",
 			},
 			{
 				name: "MongoDB",
@@ -284,11 +275,11 @@ const projects = [
 			},
 			{
 				name: "Vite",
-				color: "green-text-gradient",
+				color: "blue-text-gradient",
 			},
 			{
 				name: "Tailwind",
-				color: "pink-text-gradient",
+				color: "blue-text-gradient",
 			},
 			{
 				name: "Redux",
@@ -301,7 +292,7 @@ const projects = [
 		project_link: "https://summarigo.netlify.app",
 	},
 	{
-		name: "xk Operating System",
+		name: "XK-OS",
 		description:
 			"A working operating system with system calls, process management functions, and memory management routines of a Unix-like OS. Additionally features a file system with I/O operations and directory management.",
 		tags: [
@@ -311,7 +302,7 @@ const projects = [
 			},
 			{
 				name: "GDB",
-				color: "green-text-gradient",
+				color: "blue-text-gradient",
 			},
 		],
 		showLink: false,
@@ -330,11 +321,11 @@ const projects = [
 			},
 			{
 				name: "C",
-				color: "green-text-gradient",
+				color: "blue-text-gradient",
 			},
 			{
 				name: "POSIX",
-				color: "pink-text-gradient",
+				color: "blue-text-gradient",
 			},
 			{
 				name: "HTML",
@@ -357,11 +348,11 @@ const projects = [
 			},
 			{
 				name: "TypeScript",
-				color: "green-text-gradient",
+				color: "blue-text-gradient",
 			},
 			{
 				name: "React",
-				color: "pink-text-gradient",
+				color: "blue-text-gradient",
 			},
 			{
 				name: "Spark",
