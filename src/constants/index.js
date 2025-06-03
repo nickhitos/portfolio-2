@@ -147,7 +147,7 @@ const experiences = [
 		],
 	},
 	{
-		title: "Software Engineer Intern",
+		title: "Labs Intern",
 		company_name: "CodeDay",
 		icon: codeday,
 		iconBg: "#e9e9e9",
